@@ -12,8 +12,8 @@
 #import "CALayer+MCShorthand.h"
 #import "UIView+MCShorthand.h"
 
-#import <POP+MCAnimate/MCAnimationGroup.h>
-#import <POP+MCAnimate/MCVelocityProxy.h>
+#import "MCAnimationGroup.h"
+#import "MCVelocityProxy.h"
 #import "MCStopProxy.h"
 #import "MCBeginTime.h"
 

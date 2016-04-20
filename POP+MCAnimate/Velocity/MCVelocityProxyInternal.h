@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Matthew Cheok. All rights reserved.
 //
 
-#import <POP+MCAnimate/MCVelocityProxy.h>
+#import "MCVelocityProxy.h"
 
 @interface NSObject (MCVelocityProxyInternal)
 

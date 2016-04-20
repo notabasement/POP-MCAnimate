@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Matthew Cheok. All rights reserved.
 //
 
-#import <POP+MCAnimate/MCProxy.h>
+#import "MCProxy.h"
 
 
 @interface MCVelocityProxy : MCProxy

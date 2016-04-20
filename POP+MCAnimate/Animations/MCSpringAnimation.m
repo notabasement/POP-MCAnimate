@@ -7,7 +7,7 @@
 //
 
 #import "MCSpringAnimation.h"
-#import <POP+MCAnimate/MCVelocityProxyInternal.h>
+#import "MCVelocityProxyInternal.h"
 
 #import <objc/runtime.h>
 

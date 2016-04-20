@@ -6,8 +6,8 @@
 //  Copyright (c) 2014 Matthew Cheok. All rights reserved.
 //
 
-#import <POP+MCAnimate/MCVelocityProxy.h>
-#import <POP+MCAnimate/MCVelocityProxyInternal.h>
+#import "MCVelocityProxy.h"
+#import "MCVelocityProxyInternal.h"
 
 #import <objc/runtime.h>
 

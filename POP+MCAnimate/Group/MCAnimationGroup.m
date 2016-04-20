@@ -6,8 +6,8 @@
 //  Copyright (c) 2014 Matthew Cheok. All rights reserved.
 //
 
-#import <POP+MCAnimate/MCAnimationGroup.h>
-#import <POP+MCAnimate/MCAnimationGroupInternal.h>
+#import "MCAnimationGroup.h"
+#import "MCAnimationGroupInternal.h"
 
 @interface MCAnimationGroup ()
 

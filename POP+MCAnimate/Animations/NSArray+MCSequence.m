@@ -8,7 +8,7 @@
 
 #import "NSArray+MCSequence.h"
 #import "MCBeginTime.h"
-#import <POP+MCAnimate/MCAnimationGroup.h>
+#import "MCAnimationGroup.h"
 
 #import <UIKit/UIKit.h>
 

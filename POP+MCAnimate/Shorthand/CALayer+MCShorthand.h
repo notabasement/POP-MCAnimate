@@ -7,7 +7,7 @@
 //
 
 #import <QuartzCore/QuartzCore.h>
-#import <POP+MCAnimate/MCShorthand.h>
+#import "MCShorthand.h"
 
 @interface CALayer (MCShorthand)
 

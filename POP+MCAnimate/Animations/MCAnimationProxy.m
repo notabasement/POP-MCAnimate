@@ -7,7 +7,7 @@
 //
 
 #import "MCAnimationProxy.h"
-#import <POP+MCAnimate/MCAnimationGroupInternal.h>
+#import "MCAnimationGroupInternal.h"
 
 #import <objc/runtime.h>
 

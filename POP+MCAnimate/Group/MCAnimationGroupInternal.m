@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Matthew Cheok. All rights reserved.
 //
 
-#import <POP+MCAnimate/MCAnimationGroupInternal.h>
+#import "MCAnimationGroupInternal.h"
 #import <objc/runtime.h>
 
 static char kAnimationGroupsKey;

@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <POP+MCAnimate/MCShorthand.h>
+#import "MCShorthand.h"
 
 @interface UIView (MCShorthand)
 

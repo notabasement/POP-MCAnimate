@@ -7,7 +7,7 @@
 //
 
 #import "MCAnimationProxy.h"
-#import "MCShorthand.h"
+#import <POP+MCAnimate/MCShorthand.h>
 
 @interface MCBasicAnimation : MCAnimationProxy
 

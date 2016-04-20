@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Matthew Cheok. All rights reserved.
 //
 
-#import "MCProxy.h"
+#import <POP+MCAnimate/MCProxy.h>
 #import "NSNumber+MCAdditions.h"
 
 @interface MCProxy ()

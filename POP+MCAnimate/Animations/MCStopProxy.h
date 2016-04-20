@@ -6,8 +6,8 @@
 //
 //
 
-#import "MCProxy.h"
-#import "MCShorthand.h"
+#import <POP+MCAnimate/MCProxy.h>
+#import <POP+MCAnimate/MCShorthand.h>
 
 @interface MCStopProxy : MCProxy
 
